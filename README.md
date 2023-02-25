@@ -1,2 +1,2 @@
 # MenuInCollectionView-
-![myGif](https://i.postimg.cc/rFBK5nbF/Simulator-Screen-Recording-i-Phone-12-2023-02-25-at-18-47-38.gif)
+![image](https://user-images.githubusercontent.com/114615611/221367635-fd29d25c-326c-4b7f-8b74-8ff4b885c917.gif)
